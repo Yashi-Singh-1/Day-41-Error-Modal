@@ -15,7 +15,7 @@
 <h2>Prerequisites</h2>
 
 <ul>
-    <li>Basic HTML/CSS Knowledge.</li>
+    <li>Basic HTML/CSS/JavaScript Knowledge.</li>
     <li>Familiarity with DOM manipulation and event handling.</li>
 </ul>
 
